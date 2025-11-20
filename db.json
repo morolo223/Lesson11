@@ -13,6 +13,13 @@
             "nickname": "UHJILEHEP",
             "photo_url": "https://avatars.githubusercontent.com/u/121768593?v=4&size=64",
             "balance": 100500
+        },
+        {
+            "id": 3,
+            "name": "Ivan",
+            "nickname": "Ivvaan92",
+            "photo_url": "https://avatars.githubusercontent.com/u/242449789?v=4",
+            "balance": 92
         }
     ]
 }
