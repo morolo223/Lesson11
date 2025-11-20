@@ -1,6 +1,13 @@
 
 {
     "users":[
-        
+        {
+            "id": 2,
+            "name": "Rostyslav",
+            "nickname": "morolo22",
+            "photo_url": "https://avatars.githubusercontent.com/u/207433318?s=400&v=4",
+            "balance": 8800
+
+        }
     ]
 }
