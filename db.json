@@ -13,6 +13,13 @@
             "nickname": "UHJILEHEP",
             "photo_url": "https://avatars.githubusercontent.com/u/121768593?v=4&size=64",
             "balance": 100500
+        },
+        {
+            "id": 4,
+            "name": "Yehor",
+            "nickname": "Glock0013",
+            "photo_url": "https://avatars.githubusercontent.com/u/127987537?s=400&v=4",
+            "balance": 1488
         }
     ]
 }
