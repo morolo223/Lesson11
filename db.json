@@ -28,5 +28,14 @@
             "photo_url": "https://avatars.githubusercontent.com/u/127987537?s=400&v=4",
             "balance": 1488
         }
+    ],
+    "products":[
+        {
+            "title": "soap",
+            "description":  "mitza no, vonyat top",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfgf6qGUGeLiY9ql2TfTxNhbKEm8e18KGYDg&s",
+            "price": 9999999999
+        }
     ]
+    
 }
