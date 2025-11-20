@@ -1,4 +1,3 @@
-
 {
     "users":[
         {
@@ -7,7 +6,13 @@
             "nickname": "morolo22",
             "photo_url": "https://avatars.githubusercontent.com/u/207433318?s=400&v=4",
             "balance": 8800
-
+        },
+        {
+            "id": 1,
+            "name": "Ivan",
+            "nickname": "UHJILEHEP",
+            "photo_url": "https://avatars.githubusercontent.com/u/121768593?v=4&size=64",
+            "balance": 100500
         }
     ]
 }
