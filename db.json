@@ -35,6 +35,12 @@
             "description": "very good laptop",
             "img": "https://betanews.com/wp-content/uploads/2014/11/front-scaled.jpg",
             "price": 15000
+        },
+        {
+            "title": "computer mouse",
+            "description": "very good mouse for gamers, rgb +144 fps",
+            "img": "https://yabloki.ua/media/cache/sylius_shop_product_original/d2/3b/misha-razer-basilisk-v3-rz01-04000100-r3m1_25a7c0cb-cc87-40d3-acb2-39d80f23da27-1.png.webp",
+            "price": 2920
         }
     ]
 }
