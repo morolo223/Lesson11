@@ -28,5 +28,13 @@
             "photo_url": "https://avatars.githubusercontent.com/u/127987537?s=400&v=4",
             "balance": 1488
         }
+    ],
+    "products":[
+        {
+            "title": "laptop",
+            "description": "very good laptop",
+            "img": "https://betanews.com/wp-content/uploads/2014/11/front-scaled.jpg",
+            "price": 15000
+        }
     ]
 }
