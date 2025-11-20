@@ -20,6 +20,13 @@
             "nickname": "Ivvaan92",
             "photo_url": "https://avatars.githubusercontent.com/u/242449789?v=4",
             "balance": 92
+        },
+        {
+            "id": 4,
+            "name": "Yehor",
+            "nickname": "Glock0013",
+            "photo_url": "https://avatars.githubusercontent.com/u/127987537?s=400&v=4",
+            "balance": 1488
         }
     ]
 }
