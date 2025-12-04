@@ -59,7 +59,20 @@
             "description":"playful, likes apples",
             "img":"https://i.pinimg.com/736x/35/c2/e7/35c2e7f316f886e0410c294077223745.jpg",
             "price":92
+        },
+        {
+            "title": "namaz-cover",
+            "description": "allahuakvar",
+            "img": "https://basket-14.wbbasket.ru/vol2144/part214443/214443295/images/big/1.webp",
+            "price": 911
+        },
+        {
+            "title": "LED",
+            "description":  "your ligth at dark",
+            "img":"https://m.media-amazon.com/images/I/615x0gbIwlL._AC_SL1500_.jpg",
+            "price": 5
         }
+
     ]
     
 }
